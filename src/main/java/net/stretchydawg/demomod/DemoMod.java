@@ -2,6 +2,8 @@ package net.stretchydawg.demomod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.stretchydawg.demomod.items.ModItems;
+import net.stretchydawg.demomod.items.ModItemGroups;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +13,8 @@ public class DemoMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
+		ModItemGroups.registerItemGroups();
 		LOGGER.info("Hello Fabric world!");
 	}
 }
