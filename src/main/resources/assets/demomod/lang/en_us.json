@@ -3,6 +3,7 @@
   "item.demomod.raw_ruby": "Raw Ruby",
 
   "block.demomod.ruby_block": "Block of Ruby",
+  "block.demomod.raw_ruby_block": "Block of Raw Ruby",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
 }
