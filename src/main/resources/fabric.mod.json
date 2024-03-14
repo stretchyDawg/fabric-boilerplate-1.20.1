@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "demomod",
+	"version": "${version}",
+	"name": "DemoMod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"stretchyDawg!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/demomod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.stretchydawg.demomod.DemoMod"
+		],
+		"client": [
+			"net.stretchydawg.demomod.DemoModClient"
+		],
+		"fabric-datagen": [
+			"net.stretchydawg.demomod.DemoModDataGenerator"
+		]
+	},
+	"mixins": [
+		"demomod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
