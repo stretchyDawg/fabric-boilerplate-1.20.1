@@ -4,6 +4,10 @@
 
   "block.demomod.ruby_block": "Block of Ruby",
   "block.demomod.raw_ruby_block": "Block of Raw Ruby",
+  "block.demomod.ruby_ore": "Ruby Ore",
+  "block.demomod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.demomod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.demomod.end_stone_ruby_ore": "Endstone Ruby Ore",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
 }
