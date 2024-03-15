@@ -2,6 +2,7 @@ package net.stretchydawg.demomod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.stretchydawg.demomod.block.ModBlocks;
 import net.stretchydawg.demomod.item.ModItems;
 import net.stretchydawg.demomod.item.ModItemGroups;
@@ -18,6 +19,9 @@ public class DemoMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
-		LOGGER.info("Hello Fabric world!");
+
+		FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 200);
+
+
 	}
 }
