@@ -1,0 +1,8 @@
+// 1.20.1	2024-03-15T04:24:59.4511156	DemoMod/Block Loot Tables
+f728f4a66d6a7d4314f2188366045fb8751238c8 data\demomod\loot_tables\blocks\ruby_block.json
+a562f57190ba6ef038b848228c1d7194658db2bb data\demomod\loot_tables\blocks\nether_ruby_ore.json
+bf2bf6016b6315366dcec61373d505a46a7dd204 data\demomod\loot_tables\blocks\deepslate_ruby_ore.json
+3f3afa51a07371d621080ba2457cb37a5b6c1693 data\demomod\loot_tables\blocks\ruby_ore.json
+8d06015f150ca4f29d25427729f4be491b6e604f data\demomod\loot_tables\blocks\end_stone_ruby_ore.json
+3d4221b0e4e213cc71d024c2dfad6746dc59637e data\demomod\loot_tables\blocks\sound_block.json
+f298655993419648b4c04f9556082cfecdc29003 data\demomod\loot_tables\blocks\raw_ruby_block.json

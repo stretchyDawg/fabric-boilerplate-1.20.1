@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "demomod:ruby_ore",
+    "demomod:nether_ruby_ore",
+    "demomod:end_stone_ruby_ore",
+    "demomod:deepslate_ruby_ore",
+    "demomod:ruby_block",
+    "demomod:raw_ruby_block",
+    "demomod:sound_block"
+  ]
+}
