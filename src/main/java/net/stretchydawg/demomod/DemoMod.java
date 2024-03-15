@@ -3,8 +3,8 @@ package net.stretchydawg.demomod;
 import net.fabricmc.api.ModInitializer;
 
 import net.stretchydawg.demomod.block.ModBlocks;
-import net.stretchydawg.demomod.items.ModItems;
-import net.stretchydawg.demomod.items.ModItemGroups;
+import net.stretchydawg.demomod.item.ModItems;
+import net.stretchydawg.demomod.item.ModItemGroups;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
