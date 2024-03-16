@@ -9,7 +9,18 @@
   "block.demomod.nether_ruby_ore": "Nether Ruby Ore",
   "block.demomod.end_stone_ruby_ore": "Endstone Ruby Ore",
 
+  "block.demomod.ruby_stars": "Ruby Stairs",
+  "block.demomod.ruby_slab": "Ruby Slab",
+  "block.demomod.ruby_button": "Ruby Button",
+  "block.demomod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.demomod.ruby_fence": "Ruby Fence",
+  "block.demomod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.demomod.ruby_wall": "Ruby Wall",
+  "block.demomod.ruby_door": "Ruby Door",
+  "block.demomod.ruby_trapdoor": "Ruby Trapdoor",
+
   "item.demomod.metal_detector": "Metal Detector",
+  "item.demomod.ruby_staff": "Ruby Staff",
   "item.demomod.sound_block": "Sound Block",
   "item.demomod.tomato": "Tomato",
   "item.demomod.coal_briquette": "Coal Briquette",

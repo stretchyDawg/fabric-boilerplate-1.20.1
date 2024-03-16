@@ -1,8 +1,17 @@
-// 1.20.1	2024-03-15T04:24:59.4511156	DemoMod/Block Loot Tables
+// 1.20.1	2024-03-16T03:13:52.5935645	DemoMod/Block Loot Tables
 f728f4a66d6a7d4314f2188366045fb8751238c8 data\demomod\loot_tables\blocks\ruby_block.json
 a562f57190ba6ef038b848228c1d7194658db2bb data\demomod\loot_tables\blocks\nether_ruby_ore.json
-bf2bf6016b6315366dcec61373d505a46a7dd204 data\demomod\loot_tables\blocks\deepslate_ruby_ore.json
+cd8f8eec628a419a5b35be224de5d09a576b3fbf data\demomod\loot_tables\blocks\ruby_stairs.json
+3120682c2b75a882d2e52a612e843eac893ff90d data\demomod\loot_tables\blocks\ruby_fence_gate.json
 3f3afa51a07371d621080ba2457cb37a5b6c1693 data\demomod\loot_tables\blocks\ruby_ore.json
-8d06015f150ca4f29d25427729f4be491b6e604f data\demomod\loot_tables\blocks\end_stone_ruby_ore.json
-3d4221b0e4e213cc71d024c2dfad6746dc59637e data\demomod\loot_tables\blocks\sound_block.json
+bf2bf6016b6315366dcec61373d505a46a7dd204 data\demomod\loot_tables\blocks\deepslate_ruby_ore.json
+c4a69d8bcc2d656531e44cf3ba901c4eb127027f data\demomod\loot_tables\blocks\ruby_door.json
 f298655993419648b4c04f9556082cfecdc29003 data\demomod\loot_tables\blocks\raw_ruby_block.json
+d5175358cd48af9aa1fee5642d39044e7911a977 data\demomod\loot_tables\blocks\ruby_pressure_plate.json
+ac0993e079b128005f0bd2a2c3f38b118d14e06f data\demomod\loot_tables\blocks\ruby_fence.json
+16d2eff8274b17dc0f6b05dff6fc797063ec7400 data\demomod\loot_tables\blocks\ruby_slab.json
+af99f82133fbbf8f7fab22d89c8e177545d8d02f data\demomod\loot_tables\blocks\ruby_trapdoor.json
+8d06015f150ca4f29d25427729f4be491b6e604f data\demomod\loot_tables\blocks\end_stone_ruby_ore.json
+f7a1a38554e48a5f2b4a3325d8ff51529913821e data\demomod\loot_tables\blocks\ruby_button.json
+3d4221b0e4e213cc71d024c2dfad6746dc59637e data\demomod\loot_tables\blocks\sound_block.json
+e3954cf8aa8e5d9d95c21db572225acdab34d44d data\demomod\loot_tables\blocks\ruby_wall.json
