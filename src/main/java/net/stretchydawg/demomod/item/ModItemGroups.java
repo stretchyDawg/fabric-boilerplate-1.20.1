@@ -43,6 +43,8 @@ public class ModItemGroups {
 
                         entries.add(ModItems.RUBY_STAFF);
 
+                        entries.add(ModItems.TOMATO_SEEDS);
+
                     }).build());
 
     public static void registerItemGroups(){

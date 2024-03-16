@@ -22,7 +22,10 @@
   "item.demomod.metal_detector": "Metal Detector",
   "item.demomod.ruby_staff": "Ruby Staff",
   "item.demomod.sound_block": "Sound Block",
+
   "item.demomod.tomato": "Tomato",
+  "item.demomod.tomato_seeds": "Tomato Seeds",
+
   "item.demomod.coal_briquette": "Coal Briquette",
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Find valuables underground!",
